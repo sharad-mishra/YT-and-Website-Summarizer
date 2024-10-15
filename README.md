@@ -49,8 +49,8 @@ Before running the app, ensure you have the following installed:
 
     Copy code
 
-    `git clone https://github.com/sharad-mishra/yt-video-summarization.git
-    cd yt-video-summarization`
+    `git clone https://github.com/sharad-mishra/YT-and-Website-Summarizer.git
+    cd YT-and-Website-Summarizer`
 
 2.  **Install Dependencies**:
 
