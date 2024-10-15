@@ -15,7 +15,7 @@ This Streamlit application allows users to generate text summaries from YouTube 
 🖥️ Live Demo
 -------------
 
-Check out the **[Live Demo](#)** of the app. (Link placeholder)
+Check out the **[Live Demo](https://yt-and-website-summarizer.streamlit.app/)** of the app.
 
 🚀 How It Works
 ---------------
